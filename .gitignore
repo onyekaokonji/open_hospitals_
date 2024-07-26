@@ -24,3 +24,6 @@ __pycache__/
 
 # Linux trash directories
 .Trash-*/
+
+# environment variables
+.env
